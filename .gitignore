@@ -2,3 +2,4 @@
 .env
 cache/
 !audit.log
+config.ini
